@@ -1,0 +1,2 @@
+# homebrew
+როგორ დავაყენოთ Homebrew?
